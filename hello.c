@@ -2,11 +2,11 @@
 #include <sys/syscall.h>
 
 #ifndef DOCKER_IMAGE
-	#define DOCKER_IMAGE "hello-world"
+	#define DOCKER_IMAGE "comparex-turkey"
 #endif
 
 #ifndef DOCKER_GREETING
-	#define DOCKER_GREETING "Hello from Docker!"
+	#define DOCKER_GREETING "Hello from Comparex Turkey Team!"
 #endif
 
 #ifndef DOCKER_ARCH
